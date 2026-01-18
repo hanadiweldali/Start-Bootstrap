@@ -1,10 +1,9 @@
 import React from 'react'
-
+import Navbar from './navbar/Navbar'
 export default function App() {
   return (
     <>
-   <h1> hi my name is aa</h1>
-
+   <Navbar/>
     </>
   )
 }
