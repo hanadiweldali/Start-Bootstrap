@@ -1,0 +1,15 @@
+.mainbg{
+    background-color: #15967d;
+}
+.starIcon {
+  font-size: 40px;
+  /* background-color: yellow; */
+}
+.btnabout{
+    color: white;
+}
+.btnabout:hover{
+
+    background-color: white;
+    color: navy;
+}
