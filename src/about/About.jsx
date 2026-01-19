@@ -19,8 +19,8 @@ export default function About() {
 
         <div className="row">
 
-            <div className='col-12 col-md-4 offset-2 text-white text-start p-3 fs-3'>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</div>
-             <div className='col-12 col-md-4 offset-1 text-white text-start p-3 fs-3'>You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</div>
+            <div className='col-12 col-md-4 offset-2 text-white text-start p-5 fs-5'>Freelancer is a free bootstrap theme created by Start Bootstrap. The download includes the complete source files including HTML, CSS, and JavaScript as well as optional SASS stylesheets for easy customization.</div>
+             <div className='col-12 col-md-4 offset-1 text-white text-start p-5 fs-5'>You can create your own custom avatar for the masthead, change the icon in the dividers, and add your email address to the contact form to make it fully functional!</div>
         </div>
          <button className={`btn ${styles.btnabout} border border-white fs-3  p-3`}><FontAwesomeIcon icon={faDownload} size="x" />
 Free Download!</button>

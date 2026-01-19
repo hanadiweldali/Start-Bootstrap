@@ -1,0 +1,36 @@
+.bgnavycolor{
+    background-color:  #2c3e50;
+}
+.textnavycolor{
+    color:  rgb(44, 62, 80);
+}
+.starIcon {
+  font-size: 40px;
+  /* background-color: yellow; */
+}
+.error {
+  display: none;
+}
+
+.icon {
+  display: none;
+}
+
+input,
+textarea {
+  border-bottom: 1px solid #ced4da;
+}
+
+input:focus,
+textarea:focus {
+  border-bottom-color: #ced4da;
+}
+.w200{
+    width: 600px;
+}
+.mainbg{
+    background-color: #15967d;
+}
+.btnsend:hover{
+ background-color: #03876d;
+}

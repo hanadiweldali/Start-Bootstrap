@@ -3,6 +3,7 @@ import Navbar from './navbar/Navbar'
 import Hero  from './hero/Hero'
 import Portfolio from './portfolio/Portfolio'
 import About from './about/About'
+import Contact from './contact/Contact'
 export default function App() {
   return (
     <>
@@ -10,6 +11,7 @@ export default function App() {
    <Hero/>
    <Portfolio/>
    <About/>
+   <Contact/>
     </>
   )
 }
