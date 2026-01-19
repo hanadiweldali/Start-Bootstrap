@@ -15,7 +15,7 @@ export default function Hero() {
    <FontAwesomeIcon icon={faStar} className={styles.starIcon}  style={{ color: '#ffffff' }} />
       <hr className=' mt-4' />
  </div>
- <p className='text-white fs-3'>Graphic Artist - Web Designer - Illustrator</p>
+ <p className='text-white'>Graphic Artist - Web Designer - Illustrator</p>
   </div>
     </section>
     </>
